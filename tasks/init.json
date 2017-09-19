@@ -1,0 +1,6 @@
+{
+  "description": "Enable noop on a Puppet agent",
+  "supports_noop": false,
+  "input_method": "stdin",
+  "parameters": { }
+}
