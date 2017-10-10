@@ -4,7 +4,7 @@
   "author": "beergeek",
   "summary": "Enable noop on nodes",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "https://github.com/beergeek/enable_noop",
   "dependencies": [
     {
       "name": "puppetlabs-stdlib",
